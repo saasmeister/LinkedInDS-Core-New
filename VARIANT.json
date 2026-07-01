@@ -1,0 +1,7 @@
+{
+  "name": "core",
+  "title": "DS Core (headless)",
+  "audience": "The agent inside Claude Design. Load as a design system; no interface.",
+  "files": 377,
+  "overlaid": 3
+}
